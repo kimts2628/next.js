@@ -1,6 +1,7 @@
 {
   "name": "with-static-export",
   "dependencies": {
+    "axios": "^0.21.1",
     "next": "latest",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
